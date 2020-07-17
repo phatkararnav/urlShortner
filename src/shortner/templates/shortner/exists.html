@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div style='align-text: center;width: 800px; margin: 0 auto;'>
+    <h1>Exists</h1>
+    <p> {{ object.url }} </p>
+    <p> www.arnph.com:8000/{{ object.shortcode }} </p>
+    <a class='btn btn-success' href='/'> Shorten Another Link </a>
+</div>
+
+{% endblock content %}
