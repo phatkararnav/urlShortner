@@ -1,6 +1,6 @@
-# UrlShortner
+# UrlShortener
 
-## UrlShortner created in Django.
+## UrlShortener created in Django.
 
 ### Insert your long url and shorten it into smaller url.  
 
